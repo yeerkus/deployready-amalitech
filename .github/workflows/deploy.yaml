@@ -1,4 +1,4 @@
-# Add permissions to prevent pipeline from breaking
+# Add permissions
 permissions:
   contents: read
   packages: write
