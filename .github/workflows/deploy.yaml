@@ -1,4 +1,4 @@
-# Add permissions
+# Add permissions -
 permissions:
   contents: read
   packages: write
