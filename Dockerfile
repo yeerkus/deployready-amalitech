@@ -1,4 +1,3 @@
-# Use lightweight Node base image
 FROM node:18-alpine
 
 # Create app directory
