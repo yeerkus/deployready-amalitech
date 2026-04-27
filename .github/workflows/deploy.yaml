@@ -1,3 +1,7 @@
+# Add permissions to prevent pipeline from breaking
+permissions:
+  contents: read
+  packages: write
 name: Deploy Pipeline
 
 on:
